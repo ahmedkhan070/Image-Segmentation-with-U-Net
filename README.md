@@ -16,7 +16,8 @@ This notebook demonstrates how to perform image segmentation using a U-Net model
 ## Introduction
 
 Image segmentation is the task of partitioning an image into multiple segments or regions, often used to identify and isolate regions of interest. U-Net is a popular deep learning model for this task, especially in biomedical image segmentation.
-
+# Dataset Info
+The dataset model is trained on contains a large number of segmented nuclei images.
 ## Prerequisites
 
 - Python 3.x
